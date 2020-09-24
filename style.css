@@ -67,6 +67,7 @@ body {
 }
 
 .col {
+    margin-left: 100px;
     display: inline-block;
     width: 400px;
 }
