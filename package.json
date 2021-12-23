@@ -1,0 +1,20 @@
+{
+  "name": "dickyandeyan.github.io",
+  "version": "1.0.0",
+  "description": "Coca-cola",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickyandeyan/dickyandeyan.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickyandeyan/dickyandeyan.github.io/issues"
+  },
+  "homepage": "https://github.com/dickyandeyan/dickyandeyan.github.io#readme",
+  "dependencies": {}
+}
